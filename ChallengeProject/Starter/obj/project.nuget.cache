@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WfOv66ySRRi3uupRqqnf8re3W5l0vTR3qKelTANUVUozp2m4gkWqdUEwiZRbk6mWNlkHuZLC/0M/gP7Eai36sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ksfuh\\Desktop\\CsharpProjects\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ksfuh\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ksfuh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ksfuh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ksfuh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
